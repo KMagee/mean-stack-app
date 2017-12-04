@@ -1,0 +1,3 @@
+# MEAN Stack app
+
+This repo contains the MEAN stack app that is built through...
